@@ -1,1 +1,2 @@
-# orschiro.github.io
+- Limit screen time rescuetime, workrave
+- block desktop notifications
